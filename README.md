@@ -1,0 +1,2 @@
+# solid
+SOLID priniciples
