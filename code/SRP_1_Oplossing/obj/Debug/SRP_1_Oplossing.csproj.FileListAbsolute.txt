@@ -1,0 +1,11 @@
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.exe
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.pdb
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\obj\Debug\SRP_1_Oplossing.csprojResolveAssemblyReference.cache
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\obj\Debug\SRP_1_Oplossing.exe
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SRP_1_Oplossing\obj\Debug\SRP_1_Oplossing.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.exe.config
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.exe
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_1_Oplossing\bin\Debug\SRP_1_Oplossing.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_1_Oplossing\obj\Debug\SRP_1_Oplossing.exe
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_1_Oplossing\obj\Debug\SRP_1_Oplossing.pdb

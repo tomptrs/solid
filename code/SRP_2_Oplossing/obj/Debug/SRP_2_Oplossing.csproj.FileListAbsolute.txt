@@ -1,0 +1,2 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\SRP_2_Oplossing\obj\Debug\SRP_2_Oplossing.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\SOLID_Demo\SRP_2_Oplossing\obj\Debug\SRP_2_Oplossing.csprojResolveAssemblyReference.cache

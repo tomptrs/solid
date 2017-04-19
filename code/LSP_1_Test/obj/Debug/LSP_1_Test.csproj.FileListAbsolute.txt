@@ -1,0 +1,18 @@
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1_Test.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1_Test.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1.exe
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1.pdb
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.dll
+C:\Users\Tom\Documents\Visual Studio 2015\Projects\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1_Test.dll
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1_Test.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1.exe
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\LSP_1.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.dll
+C:\Users\Tom\Desktop\SOLID_Demo\LSP_1_Test\obj\Debug\LSP_1_Test.pdb

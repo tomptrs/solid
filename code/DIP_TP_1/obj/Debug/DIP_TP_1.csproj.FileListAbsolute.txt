@@ -1,0 +1,5 @@
+C:\Users\Tom\Desktop\SOLID_Demo\DIP_TP_1\bin\Debug\DIP_TP_1.exe.config
+C:\Users\Tom\Desktop\SOLID_Demo\DIP_TP_1\bin\Debug\DIP_TP_1.exe
+C:\Users\Tom\Desktop\SOLID_Demo\DIP_TP_1\bin\Debug\DIP_TP_1.pdb
+C:\Users\Tom\Desktop\SOLID_Demo\DIP_TP_1\obj\Debug\DIP_TP_1.exe
+C:\Users\Tom\Desktop\SOLID_Demo\DIP_TP_1\obj\Debug\DIP_TP_1.pdb

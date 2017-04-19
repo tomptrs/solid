@@ -1,0 +1,5 @@
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SOLID_Demo\bin\Debug\SOLID_Demo.exe.config
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SOLID_Demo\bin\Debug\SOLID_Demo.exe
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SOLID_Demo\bin\Debug\SOLID_Demo.pdb
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SOLID_Demo\obj\Debug\SOLID_Demo.exe
+c:\users\tom\documents\visual studio 2015\Projects\SOLID_Demo\SOLID_Demo\obj\Debug\SOLID_Demo.pdb
