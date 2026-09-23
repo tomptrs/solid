@@ -360,7 +360,7 @@ static void Main(string[] args)
             c.AddRental(new Rental(new Movie("Godfather", 0),3)); 
             _list.Add(c); 
  
-            Customer c2 = new Customer("Vandeperre"); 
+            Customer c2 = new Customer("Moons"); 
             c2.AddRental(new Rental(new Movie("Lion King", 2),2)); 
             _list.Add(c2); 
  
